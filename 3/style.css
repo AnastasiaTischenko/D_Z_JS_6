@@ -1,0 +1,12 @@
+.block{
+    background-color: aqua;
+    border-radius: 0%;
+    transition: 1s;
+}
+div {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    margin: 20px;
+    float: left;
+}
